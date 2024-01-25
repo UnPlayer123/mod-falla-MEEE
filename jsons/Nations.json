@@ -27,7 +27,7 @@
 		"afterPeace": "I'm glad you reconsidered.",
 		"tradeRequest": "We grant you the honor of this commercial offer.",
 
-		"outerColor": [204,00,51],
+		"outerColor": [178,34,34],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Independent Paraguayan.",
 		"uniques": ["[+1 Production] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"]
