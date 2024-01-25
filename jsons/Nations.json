@@ -1,10 +1,10 @@
 [
 	{
 		"name": "Paraguay",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"leaderName": "Francisco Solano López",
+		"adjective": ["Paraguayan"],
+		"startBias": ["River","Plains","Hill","Avoid [Coast]"],
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
