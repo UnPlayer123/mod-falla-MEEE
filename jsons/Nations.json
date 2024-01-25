@@ -2,7 +2,7 @@
 	{
 		"name": "Paraguay",
 		"leaderName": "Francisco Solano López",
-		"adjective": ["Paraguayan"],
+		"adjective": ["Paraguayan","Guarani"],
 		"startBias": ["River","Plains","Hill","Avoid [Coast]"],
 		"preferredVictoryType": "Cultural",
 		
@@ -10,25 +10,25 @@
 		"startIntroPart2": "Most Excellent President of the Republic of Paraguay! Are you prepared to carry out the mission of leading this fervent nation to its destiny of glory?",
 		
 		"declaringWar": "¡War is the road to perdition. But I have no choice but to defend the honor of my people and the sacred land that welcomes us!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"attacked": "Wow, I didn't expect anything less from you.",
+		"defeated": "I will not kneel like a slave before my adversaries. I'd rather die fighting for a free country!",
+		"introduction": "Very good, your excellency! I am Francisco Solano López, the President of the rich and prosperous Republic of Paraguay. Come on, and join me in showing you the hospitality of my people.",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["And what do you need from us?"],
+		"neutralNo": ["We flatly refused. No! That is not possible."],
+		"neutralYes": ["Very good. Of course. That's very useful."],
 
 		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateLetsHearIt": ["I won't give you anything."],
+		"hateNo": ["That is not possible! We don't agree with that!"],
+		"hateYes": ["That's ok. That's enough. Very good..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "I'm glad you reconsidered.",
+		"tradeRequest": "We grant you the honor of this commercial offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [205,92,92],
+		"innerColor": [255,255,255],
 		"uniqueName": "The Independent Paraguayan.",
 		"uniques": ["[+1 Production] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"]
 		"cities": ["Asunción","Ypané","Guarambaré","San Roque","Altos","Atyrá","Areguá","Itá","Tobatí",
