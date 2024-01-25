@@ -6,10 +6,10 @@
 		"startBias": ["River","Plains","Hill","Avoid [Coast]"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Welcome Friend! Paraguay, a rich land full of opportunities, watered by large rivers that flow into the Atlantic Ocean, located in the heart of South America. A civilization with roots of Spanish Guaraní mestizaje, a progressive and strong nation, which after its independence from the Spanish Crown, had a solid Economy based on an agricultural and livestock system, also propelled by industrial buildings that generated resources. And they sought to be the cultural hegemony and technological advance of South America, to the world.",
+		"startIntroPart2": "Most Excellent President of the Republic of Paraguay! Are you prepared to carry out the mission of leading this fervent nation to its destiny of glory?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"declaringWar": "¡War is the road to perdition. But I have no choice but to defend the honor of my people and the sacred land that welcomes us!",
 		"attacked": "You want to play? Very funny!",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
@@ -29,6 +29,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
+		"uniqueName": "The Independent Paraguayan.",
 		"uniques": ["[+1 Production] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"]
 		"cities": ["Asunción","Ypané","Guarambaré","San Roque","Altos","Atyrá","Areguá","Itá","Tobatí",
 			"Yaguarón","Villarrica","Caazapá","San Ignacio","Yuty","Ciudad del Este","San Lorenzo","Encarnación","Ñemby","Coronel Oviedo",
