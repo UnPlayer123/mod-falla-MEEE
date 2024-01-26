@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# Paraguay - Civilization
 
-An example mod for Unciv, that adds one new Civilization.
+Paraguayan civilization mod made for Unciv game (in progress).
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+By ElRafaJuega
