@@ -1,16 +1,15 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
+		"name": "ParaguayoXD",
+		"unitType": "Sword",
+		"uniqueTo": "Paraguay",
+		"replaces": "Warrior",
+		"movement": 7,
+		"strength": 200,
 		"rangedStrength": 36,
-		"range": 2,
+		"range": 4,
 		"cost": 500,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
