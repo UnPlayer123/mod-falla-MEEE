@@ -46,6 +46,19 @@
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"	
 	},
+	{
+		"name": "Criollo Cannon",
+		"unitType": "Siege",
+		"movement": 1,
+		"strength": 17,
+		"rangedStrength": 24,
+		"cost": 230,
+		"requiredTech": "Chemistry",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Dynamite",
+		"uniques": ["[+150]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit", "Morale"],
+		"attackSound": "cannon"
+	},
 
 	/* Great people */
 	
