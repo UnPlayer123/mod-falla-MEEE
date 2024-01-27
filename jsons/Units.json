@@ -1,15 +1,15 @@
 [
 	{
-		"name": "Guarani Warrior",
-		"unitType": "Sword",
+		"name": "Surveyor",
+		"unitType": "Scout",
 		"uniqueTo": "Paraguay",
-		"replaces": "Warrior",
+		"replaces": "Scout",
 		"movement": 2,
-		"strength": 8,
-		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"promotions": ["Morale"],
-		"upgradesTo": "Swordsman",
+		"strength": 5,
+		"cost": 30,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost","Morale"],
 		"attackSound": "nonmetalhit"
 	}
 ]
