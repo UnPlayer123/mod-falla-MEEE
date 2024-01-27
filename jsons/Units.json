@@ -62,23 +62,6 @@
 		"promotions": ["Morale"],
 		"attackSound": "cannon"
 	},
-
-	// Modern era //
-
-	{
-		"name": "Paraguayan Soldier",
-		"unitType": "Gunpowder",
-		"replaces": "Great War Infantry",
-		"uniqueTo": "Paraguay",
-		"movement": 3,
-		"strength": 40,
-		"cost": 350,
-		"requiredTech": "Replaceable Parts",
-		"upgradesTo": "Infantry",
-		"obsoleteTech": "Plastics",
-		"promotions": ["Morale"],
-		"attackSound": "shot"
-	},
 	
 	/* Great people */
 	
