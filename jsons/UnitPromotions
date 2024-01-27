@@ -1,6 +1,6 @@
 [
 	{
 		"name": "Guarani Claw",
-		"uniques": ["[+5]% Strength <vs [Military] units>"],
+		"uniques": ["This Unit gains the [Morale] promotion"],
 	}
 ]
