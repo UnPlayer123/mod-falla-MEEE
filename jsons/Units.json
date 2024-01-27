@@ -49,6 +49,8 @@
 	{
 		"name": "Criollo Cannon",
 		"unitType": "Siege",
+		"replaces": "Cannon",
+		"uniqueTo": "Paraguay",
 		"movement": 1,
 		"strength": 17,
 		"rangedStrength": 24,
