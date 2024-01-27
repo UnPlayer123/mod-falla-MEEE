@@ -71,7 +71,7 @@
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Paraguay",
 		"movement": 3,
-		"strength": 45,
+		"strength": 40,
 		"cost": 350,
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
