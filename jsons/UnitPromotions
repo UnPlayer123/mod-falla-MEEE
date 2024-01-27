@@ -2,5 +2,6 @@
 	{
 		"name": "Guarani Claw",
 		"uniques": ["[+5]% Strength"]
+		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Melee Water","Ranged Water"],
 	}
 ]
