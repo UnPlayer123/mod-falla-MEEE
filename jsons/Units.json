@@ -1,16 +1,15 @@
 [
 	{
-		"name": "ParaguayoXD",
+		"name": "Guarani Warrior",
 		"unitType": "Sword",
 		"uniqueTo": "Paraguay",
 		"replaces": "Warrior",
-		"movement": 7,
-		"strength": 200,
-		"rangedStrength": 36,
-		"range": 4,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"promotions": [""],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
 	}
 ]
