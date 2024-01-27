@@ -28,7 +28,27 @@
 		"attackSound": "nonmetalhit"
 	},
 
+	// Rennaisance Era
+
+	{
+		"name": "Acã Yvoty",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Paraguay",
+		"movement": 5,
+		"strength": 30,
+		"cost": 200,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I", "Morale"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"	
+	},
+
 	/* Great people */
+	
 	{
 		"name": "Master Engineer",
 		"unitType": "Civilian",
