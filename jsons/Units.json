@@ -20,8 +20,9 @@
 		"movement": 2,
 		"strength": 3,
 		"cost": 80,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "Can upgrade to [Warrior]"],
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"promotions": ["Morale"],
+		"upgradesTo": "Warrior",
 		"attackSound": "nonmetalhit"
 	}
 ]
