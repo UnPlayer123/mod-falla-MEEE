@@ -1,6 +1,6 @@
 [
 	{
-		"name": "[Guarani Claw] ability",
-		"uniques": ["[Land] units gain the [Morale] promotion"]
+		"name": "Guarani Claw",
+		"uniques": ["[+5]% Strength"]
 	}
 ]
