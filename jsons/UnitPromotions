@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Guarani Claw",
-		"uniques": ["[+5%] Strength <for [Military] units>"]
+		"uniques": ["[+5]% Strength <vs [Military] units>"],
 		"uniqueTo": "Paraguay"
 	}
 ]
