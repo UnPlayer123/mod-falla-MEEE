@@ -6,10 +6,22 @@
 		"replaces": "Scout",
 		"movement": 2,
 		"strength": 5,
-		"cost": 30,
+		"cost": 35,
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost","Morale"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Koygua",
+		"unitType": "Civilian",
+		"uniqueTo": "Paraguay",
+		"replaces": "Worker",
+		"movement": 2,
+		"strength": 3,
+		"cost": 80,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"promotions": ["Morale"],
 		"attackSound": "nonmetalhit"
 	}
 ]
