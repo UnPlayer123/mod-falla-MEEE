@@ -1,4 +1,6 @@
 [
+
+	/* Ancient Era */
 	{
 		"name": "Surveyor",
 		"unitType": "Scout",
@@ -24,5 +26,16 @@
 		"promotions": ["Morale"],
 		"upgradesTo": "Warrior",
 		"attackSound": "nonmetalhit"
+	},
+
+	/* Great people */
+	{
+		"name": "Master Engineer",
+		"unitType": "Civilian",
+		"uniqueTo": "Paraguay",
+		"replaces": "Great Engineer",
+		"uniques": ["Can speed up construction of a building",
+            "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
+            "Great Person - [Production]", "Unbuildable", "Uncapturable"]
 	}
 ]
