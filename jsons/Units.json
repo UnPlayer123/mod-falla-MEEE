@@ -8,7 +8,7 @@
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
-		"promotions": ["Guarani Claw"],
+		"promotions": ["Morale"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	}
