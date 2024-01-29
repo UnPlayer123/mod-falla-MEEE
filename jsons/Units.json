@@ -2,7 +2,7 @@
 
 	/* Ancient Era */
 	{
-		"name": "Surveyor",
+		"name": "Agrimensor",
 		"unitType": "Scout",
 		"uniqueTo": "Paraguay",
 		"replaces": "Scout",
@@ -47,7 +47,7 @@
 		"attackSound": "horse"	
 	},
 	{
-		"name": "Criollo Cannon",
+		"name": "Cañón Criollo",
 		"unitType": "Siege",
 		"replaces": "Cannon",
 		"uniqueTo": "Paraguay",
@@ -66,7 +66,7 @@
 	/* Great people */
 	
 	{
-		"name": "Master Engineer",
+		"name": "Ingeniero Maestro",
 		"unitType": "Civilian",
 		"uniqueTo": "Paraguay",
 		"replaces": "Great Engineer",
