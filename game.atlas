@@ -11,7 +11,7 @@ UnitIcons/Koygua
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Surveyor
+UnitIcons/Agrimensor
   rotate: false
   xy: 212, 4
   size: 200, 200
@@ -32,7 +32,7 @@ TileSets/AbsoluteUnits/Units/Koygua-Paraguay
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Surveyor-Paraguay
+TileSets/AbsoluteUnits/Units/Agrimensor-Paraguay
   rotate: false
   xy: 528, 123
   size: 95, 81
