@@ -1,0 +1,27 @@
+
+game.png
+size: 526, 526
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Surveyor
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Paraguay
+  rotate: false
+  xy: 212, 104
+  size: 100, 100
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Surveyor-Paraguay
+  rotate: false
+  xy: 212, 15
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
