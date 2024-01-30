@@ -4,7 +4,13 @@ size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Acã Yboty
+UnitIcons/Acã Yvoty
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/Agrimensor
   rotate: false
   xy: 212, 4
@@ -14,29 +20,36 @@ UnitIcons/Agrimensor
   index: -1
 UnitIcons/Koygua
   rotate: false
-  xy: 4, 4
+  xy: 420, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Paraguay
   rotate: false
-  xy: 420, 104
+  xy: 628, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Koygua-Paraguay
+TileSets/AbsoluteUnits/Units/Agrimensor-Paraguay
   rotate: false
-  xy: 420, 15
+  xy: 628, 15
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Agrimensor-Paraguay
+TileSets/AbsoluteUnits/Units/Koygua-Paraguay
   rotate: false
-  xy: 528, 123
+  xy: 628, 15
   size: 95, 81
   orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Acã Yvoty-Paraguay
+  rotate: false
+  xy: 839, 139
+  size: 77, 65
+  orig: 77, 65
   offset: 0, 0
   index: -1
