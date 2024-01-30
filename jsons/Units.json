@@ -90,6 +90,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Paraguay",
 		"replaces": "Great Engineer",
+		"movement": 2,
 		"uniques": ["Can speed up construction of a building",
             "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
             "Great Person - [Production]", "Unbuildable", "Uncapturable"]
