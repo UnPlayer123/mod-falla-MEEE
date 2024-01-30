@@ -41,7 +41,7 @@
 	// Rennaisance Era //
 
 	{
-		"name": "Acã Yvoty",
+		"name": "Aca Yvoty",
 		"unitType": "Mounted",
 		"replaces": "Lancer",
 		"uniqueTo": "Paraguay",
@@ -54,7 +54,7 @@
 		"promotions": ["Formation I", "Morale"],
 				"civilopediaText": [
 			{
-				"text": "Unidad de Caballería hábil, armada con una lanza para matar infantería y artillería, presenta bonificación de 15 % de fuerza."
+				"text": "Unidad de Caballería hábil, armada con una lanza o sable para matar infantería y artillería, con 15 % más de fuerza."
 			}
 		],
 		"upgradesTo": "Anti-Tank Gun",
