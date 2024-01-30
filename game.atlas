@@ -4,7 +4,7 @@ size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-UnitIcons/Acã Yboty
+UnitIcons/Aca Yboty
   rotate: false
   xy: 4, 4
   size: 200, 200
@@ -46,7 +46,7 @@ TileSets/AbsoluteUnits/Units/Koygua-Paraguay
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Acã Yboty-Paraguay
+TileSets/AbsoluteUnits/Units/Aca Yboty-Paraguay
   rotate: false
   xy: 839, 139
   size: 77, 65
