@@ -4,16 +4,17 @@ size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Koygua
+UnitIcons/Acã Yboty
+UnitIcons/Agrimensor
   rotate: false
-  xy: 4, 4
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Agrimensor
+UnitIcons/Koygua
   rotate: false
-  xy: 212, 4
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
