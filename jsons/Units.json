@@ -12,6 +12,11 @@
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost","Morale"],
+		"civilopediaText": [
+			{
+				"text": "Explorador paraguayo que presenta una bonificación de 15 % más de fuerza."
+			}
+		],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -24,6 +29,11 @@
 		"cost": 80,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"promotions": ["Morale"],
+		"civilopediaText": [
+			{
+				"text": "Trabajador que también puede atacar y defenderse del enemigo con daño bajo. Capaz de ocupar misma casilla con otra unidad civil, no así con alguna unidad militar."
+			}
+		],
 		"upgradesTo": "Warrior",
 		"attackSound": "nonmetalhit"
 	},
@@ -42,6 +52,11 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"promotions": ["Formation I", "Morale"],
+				"civilopediaText": [
+			{
+				"text": "Unidad de Caballería hábil, armada con una lanza para matar infantería y artillería, presenta bonificación de 15 % de fuerza."
+			}
+		],
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"	
@@ -60,6 +75,11 @@
 		"obsoleteTech": "Dynamite",
 		"uniques": ["[+150]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
 		"promotions": ["Morale"],
+		"civilopediaText": [
+			{
+				"text": "Artillería superpesada paraguaya, fabricada con campanas de iglesias fundidas."
+			}
+		],
 		"attackSound": "cannon"
 	},
 	
@@ -73,5 +93,10 @@
 		"uniques": ["Can speed up construction of a building",
             "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
             "Great Person - [Production]", "Unbuildable", "Uncapturable"]
+		"civilopediaText": [
+			{
+				"text": "Unidad gran personaje paraguayo, que suplanta al Gran Ingeniero"
+			}
+		]
 	}
 ]
