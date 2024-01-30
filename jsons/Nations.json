@@ -15,14 +15,14 @@
 		"introduction": "¡Muy bien excelencia! Soy Francisco Solano López, el Presidente de la rica y próspera República del Paraguay. Ven y únete a mí, para mostrarte la hospitalidad de mi pueblo.",
 		
 		"neutralHello": "¿Cómo estás?",
-		"neutralLetsHearIt": "¿Y qué necesitas de nosotros?",
-		"neutralNo": "Nos negamos rotundamente. ¡No! Eso no es posible.",
-		"neutralYes": "Muy bien. Por supuesto. Eso es muy útil.",
+		"neutralLetsHearIt": ["¿Y qué necesitas de nosotros?"],
+		"neutralNo": ["Nos negamos rotundamente. ¡No! Eso no es posible."],
+		"neutralYes": ["Muy bien. Por supuesto. Eso es muy útil."],
 
 		"hateHello": "¿Qué es lo que quieres ahora?",
-		"hateLetsHearIt": "No te daré nada.",
-		"hateNo": "¡Eso no es posible! ¡No estamos de acuerdo con eso!",
-		"hateYes": "Está bien. Eso es suficiente. Muy bien...",
+		"hateLetsHearIt": ["No te daré nada."],
+		"hateNo": ["¡Eso no es posible! ¡No estamos de acuerdo con eso!"],
+		"hateYes": ["Está bien. Eso es suficiente. Muy bien..."],
 		
 		"afterPeace": "Me alegro que lo hayas reconsiderado.",
 		"tradeRequest": "Le otorgamos el honor de esta oferta comercial.",
