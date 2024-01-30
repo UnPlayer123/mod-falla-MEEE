@@ -2,9 +2,9 @@
 game.png
 size: 1024, 256
 format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
+filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-UnitIcons/Acã Yvoty
+UnitIcons/Acã Yboty
   rotate: false
   xy: 4, 4
   size: 200, 200
@@ -41,12 +41,12 @@ TileSets/AbsoluteUnits/Units/Agrimensor-Paraguay
   index: -1
 TileSets/AbsoluteUnits/Units/Koygua-Paraguay
   rotate: false
-  xy: 628, 15
+  xy: 736, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Acã Yvoty-Paraguay
+TileSets/AbsoluteUnits/Units/Acã Yboty-Paraguay
   rotate: false
   xy: 839, 139
   size: 77, 65
