@@ -95,11 +95,11 @@
 		"replaces": "Great Engineer",
 		"movement": 2,
 		"uniques": ["Can speed up construction of a building",
-            "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
+            "Can instantly construct a [Taller Industrial] improvement <by consuming this unit>",
             "Great Person - [Production]", "Unbuildable", "Uncapturable"]
 		"civilopediaText": [
 			{
-				"text": "Unidad gran personaje, que suplanta al Gran Ingeniero."
+				"text": "Unidad gran personaje, que puede construir el Taller Industrial, o acelerar producción en construcciones."
 			}
 		]
 	}
