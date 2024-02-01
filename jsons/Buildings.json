@@ -23,5 +23,16 @@
 		"percentStatBonus": {"science": 55},
 		"uniques": ["Requires a [Library] in all cities", "Cost increases by [30] per owned city"],
 		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Panteón Nacional de los Héroes",
+		"replaces": "Heroic Epic",
+		"uniqueTo": "Paraguay",
+		"cost": 130,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Barracks] in all cities", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
+			"Cost increases by [30] per owned city"],
+		"requiredTech": "Iron Working"
 	}
 ]
