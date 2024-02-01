@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Palacio de López",
+		"replaces": "Palace",
+		"uniqueTo": "Paraguay",
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 2,
+		"cityStrength": 3,
+		"cost": 2,
+		"uniques": ["Indicates the capital city"]
 	},
 	{
 		"name": "Breeders",
