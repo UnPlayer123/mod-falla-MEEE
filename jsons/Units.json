@@ -87,8 +87,8 @@
 	
 	{
 		"name": "Ingeniero Maestro",
-		"production":2,
-		"greatPersonPoints": {"Great Engineer":3},
+		"production":3,
+		"greatPersonPoints": {"Great Engineer":4},
 		"unitType": "Civilian",
 		"uniqueTo": "Paraguay",
 		"replaces": "Great Engineer",
@@ -98,7 +98,7 @@
             "Great Person - [Production]", "Unbuildable", "Uncapturable"]
 		"civilopediaText": [
 			{
-				"text": "Unidad gran personaje, que suplanta al Gran Ingeniero con significativas diferencias"
+				"text": "Unidad gran personaje, que suplanta al Gran Ingeniero."
 			}
 		]
 	}
