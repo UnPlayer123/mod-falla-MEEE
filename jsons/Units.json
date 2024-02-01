@@ -14,7 +14,7 @@
 		"promotions": ["Ignore terrain cost","Morale"],
 		"civilopediaText": [
 			{
-				"text": "Explorador paraguayo que presenta una bonificación de 15 % más de fuerza."
+				"text": "Explorador que presenta una bonificación de 15 % más de fuerza."
 			}
 		],
 		"attackSound": "nonmetalhit"
