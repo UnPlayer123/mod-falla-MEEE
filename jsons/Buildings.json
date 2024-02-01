@@ -13,13 +13,15 @@
 		"uniques": ["Indicates the capital city"]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Colegio Nacional de la Capital",
+		"replaces": "National College",
+		"uniqueTo": "Paraguay",
+		"cost": 130,
+		"science": 4,
+		"culture": 1,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 55},
+		"uniques": ["Requires a [Library] in all cities", "Cost increases by [30] per owned city"],
+		"requiredTech": "Philosophy"
 	}
 ]
