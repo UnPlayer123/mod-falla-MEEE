@@ -83,6 +83,26 @@
 		],
 		"attackSound": "cannon"
 	},
+	{
+		"name": "Aca Verá",
+		"unitType": "Mounted",
+		"replaces": "Cavalry",
+		"uniqueTo": "Paraguay",
+		"movement": 5,
+		"strength": 39,
+		"cost": 300,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Morale"],
+		"civilopediaText": [
+			{
+				"text": "Carabinero élite paraguayo, que puede fortificar, es costoso de producir pero compensa su gran habilidad y fuerza."
+			}
+		"attackSound": "horse"
+	},
 	
 	/* Great people */
 	
