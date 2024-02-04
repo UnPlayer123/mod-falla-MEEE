@@ -60,105 +60,105 @@ ImprovementIcons/Taller Industrial
   orig: 100, 100
   offset: 0, 0
   index: -1
-Units/Agrimensor-Paraguay
+TileSets/AbsoluteUnits/Units/Agrimensor-Paraguay
   rotate: false
   xy: 1044, 15
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-Units/Ingeniero Maestro-Paraguay
+TileSets/AbsoluteUnits/Units/Ingeniero Maestro-Paraguay
   rotate: false
   xy: 1368, 123
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-Units/Koygua-Paraguay
+TileSets/AbsoluteUnits/Units/Koygua-Paraguay
   rotate: false
   xy: 1147, 15
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-Units/Aca Verá
+TileSets/AbsoluteUnits/Units/Aca Verá
   rotate: false
   xy: 1471, 139
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-Units/Aca Verá-1
+TileSets/AbsoluteUnits/Units/Aca Verá-1
   rotate: false
   xy: 1250, 31
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-Units/Aca Verá-2
+TileSets/AbsoluteUnits/Units/Aca Verá-2
   rotate: false
   xy: 1556, 139
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-Units/Aca Verá-Paraguay
+TileSets/AbsoluteUnits/Units/Aca Verá-Paraguay
   rotate: false
   xy: 1641, 139
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-Units/Aca Yvoty
+TileSets/AbsoluteUnits/Units/Aca Yvoty
   rotate: false
   xy: 1726, 139
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-Units/Aca Yvoty-1
+TileSets/AbsoluteUnits/Units/Aca Yvoty-1
   rotate: false
   xy: 1811, 139
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-Units/Aca Yvoty-2
+TileSets/AbsoluteUnits/Units/Aca Yvoty-2
   rotate: false
   xy: 1896, 139
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-Units/Aca Yvoty-Paraguay
+TileSets/AbsoluteUnits/Units/Aca Yvoty-Paraguay
   rotate: false
   xy: 1335, 31
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-Units/Cañón Criollo
+TileSets/AbsoluteUnits/Units/Cañón Criollo
   rotate: false
   xy: 1420, 59
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-Units/Cañón Criollo-1
+TileSets/AbsoluteUnits/Units/Cañón Criollo-1
   rotate: false
   xy: 1492, 75
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-Units/Cañón Criollo-2
+TileSets/AbsoluteUnits/Units/Cañón Criollo-2
   rotate: false
   xy: 1564, 75
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-Units/Cañón Criollo-Paraguay
+TileSets/AbsoluteUnits/Units/Cañón Criollo-Paraguay
   rotate: false
   xy: 1636, 75
   size: 64, 56
