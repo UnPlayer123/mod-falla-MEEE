@@ -1,0 +1,111 @@
+
+AbsoluteUnits.png
+size: 512, 256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Agrimensor-Paraguay
+  rotate: false
+  xy: 4, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Ingeniero Maestro-Paraguay
+  rotate: false
+  xy: 4, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Koygua-Paraguay
+  rotate: false
+  xy: 107, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Verá-1
+  rotate: false
+  xy: 4, 4
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Verá-2
+  rotate: false
+  xy: 107, 93
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Verá-Paraguay
+  rotate: false
+  xy: 210, 182
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Verá
+  rotate: false
+  xy: 295, 182
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Yvoty-1
+  rotate: false
+  xy: 380, 182
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Yvoty-2
+  rotate: false
+  xy: 107, 20
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Yvoty-Paraguay
+  rotate: false
+  xy: 210, 109
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Yvoty
+  rotate: false
+  xy: 295, 109
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cañón Criollo-1
+  rotate: false
+  xy: 380, 118
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cañón Criollo-2
+  rotate: false
+  xy: 192, 45
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cañón Criollo-Paraguay
+  rotate: false
+  xy: 264, 45
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cañón Criollo
+  rotate: false
+  xy: 336, 45
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
