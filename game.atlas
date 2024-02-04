@@ -165,14 +165,14 @@ Units/Cañón Criollo-Paraguay
   orig: 64, 56
   offset: 0, 0
   index: -1
-Tiles/Taller Industrial-Pillaged
+TileSets/HexaRealm/Tiles/Taller Industrial-Pillaged
   rotate: false
   xy: 1708, 67
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-Tiles/Taller Industrial
+TileSets/HexaRealm/Tiles/Taller Industrial
   rotate: false
   xy: 1780, 67
   size: 64, 64
