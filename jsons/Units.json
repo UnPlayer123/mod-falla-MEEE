@@ -102,9 +102,10 @@
 		"promotions": ["Morale"],
 		"civilopediaText": [
 			{
-				"text": "Carabinero élite paraguayo, que puede fortificar, es costoso de producir pero compensa su gran habilidad y fuerza."
+				"text": "Carabinero élite paraguayo, que puede fortificar, es costoso de producir, pero lo compensa con su gran habilidad y fuerza."
 			}
 		"attackSound": "horse"
+		]
 	},
 
 	
