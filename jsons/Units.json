@@ -106,9 +106,9 @@
 			}
 		"attackSound": "horse"
 	},
-	
-	/* Great people */
-	
+
+	// Great people //
+
 	{
 		"name": "Ingeniero Maestro",
 		"production":3,
